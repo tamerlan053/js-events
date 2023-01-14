@@ -1,4 +1,4 @@
-let saveEl = document.getElementById("save-el") 
+let saveEl = document.getElementById("save-el")
 let countEl = document.getElementById("count-el")
  
 
